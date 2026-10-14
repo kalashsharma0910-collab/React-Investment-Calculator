@@ -66,18 +66,3 @@ src/
   index.css
 ```
 
-## License
-
-This project is for educational and portfolio purposes.
-
-## Recommended GitHub Repository Name
-
-```bash
-investment-calculator
-```
-
-## Recommended GitHub Description
-
-```bash
-Interactive React app for calculating investment growth over time using initial investment, annual contributions, expected return, and duration.
-```
